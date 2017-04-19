@@ -7,7 +7,8 @@ Userscript that removes all this "You are leaving our site" and other redirectio
 
 __Install (OpenUserJS):__ https://openuserjs.org/scripts/nokeya/Direct_links_out  
 __Install (GreasyFork):__ https://greasyfork.org/ru/scripts/15857-direct-links-out  
-__Install (Github raw):__ https://github.com/nokeya/direct-links-out/raw/master/direct-links-out.user.js
+__Install (Github raw - old version):__ https://github.com/nokeya/direct-links-out/raw/master/direct-links-out.user.js
+__Install (Github raw - new version):__ https://github.com/vad1m/direct-links-out/raw/master/direct-links-out.user.js
 
 # Currently supported (with subdomains)
 - google (with local versions)
@@ -31,3 +32,4 @@ __Install (Github raw):__ https://github.com/nokeya/direct-links-out/raw/master/
 - yaplakal.com
 - picarto.tv
 - taker.im
+- wikimapia.org
